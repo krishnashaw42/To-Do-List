@@ -98,21 +98,3 @@ Used `ActionListener` and `MouseListener` for smooth interaction.
 
 ---
 
-## ▶️ How to Run
-
-```
-javac To_Do_List.java
-java To_Do_List
-```
-
----
-
-## 👨‍💻 Author
-
-Krishna
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
